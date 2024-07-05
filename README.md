@@ -1,4 +1,4 @@
-# 👋 Hi I'm Berkant!
+# 👋 Hi, I'm Berkant!
 Computer engineering graduate from Zonguldak Bülent Ecevit University with a keen interest in data science. I have experience in Python and SQL, focusing on data analysis, machine learning, and big data technologies. My learning journey is ongoing as I continually seek to expand my knowledge and skills. I share my projects and code samples on my GitHub profile, where I explore solving data-related challenges.
 
 
